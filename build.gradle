@@ -1,6 +1,5 @@
 buildscript {
     repositories {
-        maven { url "http://repo.spring.io/libs-snapshot" }
         mavenCentral()
     }
     dependencies {
